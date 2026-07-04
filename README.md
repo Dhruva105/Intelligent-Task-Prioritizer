@@ -19,7 +19,7 @@ A standalone Java desktop application developed as part of my **Java with DSA Su
   * Peek Root Task: $O(1)$
 
 ## 💻 UI Preview
-![Dashboard Preview](Screenshot 2026-07-04 224208)
+![Dashboard Preview](image_ad1fa4.png)
 
 ## 🏃 How to Run the Application
 1. Download or clone this repository.
